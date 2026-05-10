@@ -117,6 +117,12 @@ body {
     text-decoration: none;
 }
 
+.jlwy-btn-sm {
+    padding: 0.375rem 1rem;
+    font-size: 0.8rem;
+    border-radius: 6px;
+}
+
 .jlwy-btn-primary {
     background: linear-gradient(135deg, var(--jlwy-primary), var(--jlwy-primary-dark));
     color: var(--jlwy-text-dark);
